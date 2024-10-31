@@ -1,0 +1,7 @@
+torch                      # The main PyTorch library for building and training the model
+torchvision                # Contains utilities for image transformations and datasets
+transformers               # Provides the Stable Diffusion model and related utilities
+tqdm                       # A library for showing progress bars during training
+numpy                      # A library for numerical operations in Python
+Pillow                     # A library for image processing
+scikit-learn               # A library for machine learning algorithms and tools
